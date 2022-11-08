@@ -20,7 +20,9 @@ Open in VS code with Live Server
 
 HTML AND CSS
 
-## ⚖️ Contributing
+## 👀 See Demo in the link
+https://alexisbustamante.github.io/template-rainbow-loader/
+
 
 ## 👷‍♂️ Author
 <a href="https://github.com/AlexisBustamante">
